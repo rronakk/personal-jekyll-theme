@@ -41,7 +41,7 @@ favicon: "/img/favicon_qa.ico"
 
 black-favicon: "/img/favicon_qa.ico"
 
-background-img: "../img/think-code-1.jpg"
+background-img: "../img/think-code-2.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -58,14 +58,13 @@ lines: # You can add HTML Tags in the Text
   - text: "Software testers always go to heaven; they’ve already had their fair share of hell."
   - text: "No Pain, No Gain"
   - text : "Pressure makes Diamonds"
-  - text : "If you don’t like testing your product, most likely your customers won’t like to test it either."
   - text : "I don’t care if it works on your machine!  We are not shipping your machine!"
   - text : "If you automate a mess, you get an automated mess."
 
 
 
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/ronak_linkedin.png"
 
 ##############################
 # Color the browser elements #
@@ -133,7 +132,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "knockronak@gmail.com"
 
 ################
 # Author Blurb #
@@ -144,7 +143,7 @@ email: "your@email.here"
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+author_blurb_image: "/img/ronak_linkedin.png"
 
 ##################
 # Social Buttons #
@@ -156,7 +155,7 @@ social:
   - title: "twitter"
     url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/rronakk/"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
