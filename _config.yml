@@ -41,7 +41,7 @@ favicon: "/img/favicon_qa.ico"
 
 black-favicon: "/img/favicon_qa.ico"
 
-background-img: "../img/apple-gear-looking-pretty.jpg"
+background-img: "../img/think-code.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,8 +55,15 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Software testers always go to heaven; they’ve already had their fair share of hell."
+  - text: "No Pain, No Gain"
+  - text : "Pressure makes Diamonds"
+  - text : "If you don’t like testing your product, most likely your customers won’t like to test it either."
+  - text : "I don’t care if it works on your machine!  We are not shipping your machine!"
+  - text : "If you automate a mess, you get an automated mess."
+
+
+
 
 me-img: "/img/jetpacktocat.png"
 
