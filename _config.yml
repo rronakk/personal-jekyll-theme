@@ -33,15 +33,15 @@ author: "Ronak Ray"
 title: "{[ Ronak Ray ]}"
 description: "Blog and website of Ronak Ray, blogging mainly for tech, Life. Opinions expressed are mine."
 keywords: "Ronak, Ray, personal, QA, Automation, Python"
-favicon: "/img/favicon.ico"
+favicon: "/img/favicon_qa.ico"
 
 ################
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "/img/favicon_qa.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/apple-gear-looking-pretty.jpg"
 
 ##############################
 # Dynamic Text on the Header #
