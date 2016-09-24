@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Ronak Ray"
-title: "{[ Ronak Ray ]}"
+title: " Ronak Ray "
 description: "Blog and website of Ronak Ray, blogging mainly for tech, Life. Opinions expressed are mine."
 keywords: "Ronak, Ray, personal, QA, Automation, Python"
 favicon: "/img/favicon_qa.ico"
@@ -69,7 +69,7 @@ me-img: "/img/ronak_linkedin.png"
 ##############################
 # Color the browser elements #
 ##############################
-color-browser: "#000000"
+color-browser: "#0D1216"
 apple-status-bar-style: "black"
 
 ################
